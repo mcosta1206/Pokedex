@@ -36,10 +36,10 @@ main {
 
 .pokemon_data {
     position: absolute;
-    font-weight: 600;
+    font-weight: 700;
     color: #3a444d;
     top: 65%;
-    right: 40%;
+    right: 37%;
     font-size: clamp(10px, 4vw, 25px);
 }
 
